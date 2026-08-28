@@ -42,11 +42,6 @@ The main placeholders are:
    provide.
 3. Run the platform-specific README files in the corresponding subdirectories.
 
-## Notes
-
-- `README_OPENSCIENCE.md` gives a short human-readable summary of the anonymous
-  release policy.
-
 ## Verification scope
 
 This copy preserves the source layout for observation-state experiments:
